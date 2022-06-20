@@ -16,6 +16,7 @@ After the files you add with Option 1, a hash table named **HashTable.txt** is c
 
 > **Note :** After the program is **run once**, there is no need to repeat the transactions made with Option 1. The program **reads the values in HashTable.txt** and allows the user to search without making preparations.
 
+Code is [here](https://github.com/uguraltindal/Hash-Table-Word-Search-in-Files/blob/main/17011043.c).
 
 ## Examples
 
